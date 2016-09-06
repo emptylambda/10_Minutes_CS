@@ -1,0 +1,16 @@
+* A computer science topic explained in 10 Minutes
+  This is an exercise based on [[https://www.chalmersprofessional.se/sv/utbildningar?tags%3Dgeneric_skills&id%3D4112#.V85-fzu7L8t][Teaching, Learning and Evaluation
+  Course]]. The objective is to convey a 10 minutes micro lecture in
+  order to examine the possible teaching means / methods / tools. 
+  
+  To make things more computer scientific, the intention is to use
+  tools of cs flavour. 
+  - Use GitHub + version control for the distribution / history. 
+  - Use Emacs & org-mode for the documentations.
+  - Use LaTex presentation.
+  - Practice nice version control disciplines.
+
+** Learning Objectives
+   TBD
+** Learning Activities
+   TBD
